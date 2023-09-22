@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PierceW25
-- 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning the basic web stack HTML/CSS/JS
-- 💞️ I’m looking to collaborate on any and all challenging web projects
-- 📫 Email me at piercewdevs@gmail.com
+
